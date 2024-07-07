@@ -21,7 +21,7 @@ body{
     font-family: "Outfit", sans-serif;
 }
 main{
-    height: 230vh;
+    height: 200vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -30,17 +30,17 @@ main{
 .content{
     background-color:var(--White);
     flex-direction: column;
-    width: 60rem;
-    min-height: 230vh;
+    width: 70rem;
+    min-height: 200vh;
     display: flex;
     justify-content: flex-start;
     border-radius: 2rem;
     padding: 2.5rem;
-    font-size: 14px;
+    font-size: 16px;
     overflow: hidden;
 }
 .content img {
-    width: 55rem;
+    width: 65rem;
     border-radius: 1rem;
 }
 .content h1{
